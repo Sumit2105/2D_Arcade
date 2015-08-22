@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject\GameProject.csproj", "{B8ED9C46-8879-441C-AF79-A1ED913F3344}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameProjectContent", "GameProject\GameProjectContent\GameProjectContent.contentproj", "{10686C2D-0DAB-462E-9A20-562C963A26D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8ED9C46-8879-441C-AF79-A1ED913F3344}.Debug|x86.ActiveCfg = Debug|x86
+		{B8ED9C46-8879-441C-AF79-A1ED913F3344}.Debug|x86.Build.0 = Debug|x86
+		{B8ED9C46-8879-441C-AF79-A1ED913F3344}.Release|x86.ActiveCfg = Release|x86
+		{B8ED9C46-8879-441C-AF79-A1ED913F3344}.Release|x86.Build.0 = Release|x86
+		{10686C2D-0DAB-462E-9A20-562C963A26D6}.Debug|x86.ActiveCfg = Debug|x86
+		{10686C2D-0DAB-462E-9A20-562C963A26D6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
